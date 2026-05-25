@@ -28,8 +28,8 @@ modules:
       - type: archive
         only-arches:
           - x86_64
-        # path: "Gai-1.2.7-bin-linux-x86_64.tar.gz"
-        url: https://webpath.iche2.com/release/Gai-1.2.7-bin-linux-x86_64.tar.gz
-        sha256: 79542c1eda0c49ff1f3580db33b6f4a4201552835718826c40b205a1f9b27693
+        # path: "Gai-1.2.7.1-bin-linux-x86_64.tar.gz"
+        url: https://webpath.iche2.com/release/Gai-1.2.7.1-bin-linux-x86_64.tar.gz
+        sha256: ee47b070b2595aae1669d2bbe6c0e7dacce51e648aba7260e022ad37bb602d88
         dest-filename: gai.tar.gz
         strip-components: 1
